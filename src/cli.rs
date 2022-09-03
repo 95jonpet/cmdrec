@@ -11,6 +11,7 @@ pub(crate) struct Cli {
     pub command: CliCommand,
 
     /// Base path to store records in.
+    #[clap(long)]
     pub base_path: Option<PathBuf>,
 }
 
