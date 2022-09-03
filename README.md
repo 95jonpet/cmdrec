@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-shield]: https://img.shields.io/github/issues/95jonpet/cmdrec.svg?style=for-the-badge
 [issues-url]: https://github.com/95jonpet/cmdrec/issues
 [license-shield]: https://img.shields.io/github/license/95jonpet/cmdrec.svg?style=for-the-badge
-[license-url]: https://github.com/95jonpet/cmdrec/blob/master/LICENSE.txt
+[license-url]: https://github.com/95jonpet/cmdrec/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/95jonpet
 [rust-shield]: https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white
