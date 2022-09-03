@@ -70,7 +70,7 @@
 2. Compile and run the code.
 
     ```bash
-    cargo install
+    cargo install --path .
     ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
